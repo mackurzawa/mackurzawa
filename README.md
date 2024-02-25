@@ -1,33 +1,48 @@
 ### About me 👋
 🎓 Hi, I'm @mackurzawa, a student pursuing Artificial Intelligence at Poznań University of Technology <br/>
 👨‍💻 Passionate about exploring the realms of AI and its applications <br/>
-🪴 Currently diving into the fascinating world of RAGs and Image segmentation <br/>
+:seedling: Currently diving into the fascinating world of RAGs and Image segmentation <br/>
 
 ### Tech Stack
 
 #### 🤖 Machine Learning
 ![Python](https://img.shields.io/badge/Python-14354C?&logo=python&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?&logo=amazondocumentdb&logoColor=white)
 ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?&logo=PyTorch&logoColor=white) 
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-[COLOR]?logo=LANGCHAIN&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-[COLOR]?logo=LLAMAINDEX&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white)
+
+
+![MLflow](https://img.shields.io/badge/MLflow-00BBBB.svg?&logo=mlflow&logoColor=white)
+![Open-CV](https://img.shields.io/badge/Open--CV-%23white.svg?&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-808080?logo=openproject&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-de37b7?logo=gnu&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-00BBBB?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-130754?logo=pandas&logoColor=white)
 
 
 #### 💻 Software Development
 ![Git](https://img.shields.io/badge/GIT-E44C30?&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/github-171515?&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?&logo=docker&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?&logo=c%2B%2B&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-f37821.svg?logo=jupyter&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-171515?&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D27.svg?logo=gitlab&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-026cba.svg?logo=scrumalliance&logoColor=white)
 
-#### 📊 Databases
+#### :floppy_disk: Databases
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0064a5.svg?logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-009999.svg?logo=sqlite&logoColor=white)
 
-#### Visualisation
+#### 📊 Visualisation
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-fc8b44.svg?logo=mediamarkt&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-5c789b.svg?logo=librariesdotio&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-282d33.svg?logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-bd4043.svg?logo=streamlit&logoColor=white)
 
 
 ### My Stats
