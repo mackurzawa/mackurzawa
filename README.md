@@ -31,7 +31,7 @@
 ![Github](https://img.shields.io/badge/GitHub-171515?&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D27.svg?logo=gitlab&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-026cba.svg?logo=scrumalliance&logoColor=white)
-![Poetry](https://img.shields.io/badge/Poetry-026cba.svg?logo=poetry&logoColor=white)
+![Poetry](https://img.shields.io/badge/Poetry-027cba.svg?logo=poetry&logoColor=white)
 
 #### :floppy_disk: Databases
 
